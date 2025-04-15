@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ; planeta equilibrado e sustentavel 
 - 📫 How to reach me ; n-negocios@hotmail.com
 - 😄 Pronouns: ; familia, amigos, saude, alegria, animais
-- ⚡ Fun fact: ; e a nossa sincularidade de dados vão parar aonde? e como vai ser preservados temporalmente. 
+- ⚡ Fun fact: ; ... e a nossa sincularidade de dados vão parar aonde? e como vai ser preservados temporalmente? 
 
 <!---
 oficialpinarii/oficialpinarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
